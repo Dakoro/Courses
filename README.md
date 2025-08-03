@@ -8,3 +8,4 @@
 - [Programmation C++](https://youtube.com/playlist?list=PL3BR09unfgcgf7R88ZQRQqWOdLy4pRW2h&si=2MLBKnVT4rEzfDU5)
 - [Machine Learning](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=xpZLLN4CR0PTlJC4)
 - [Histoire et Civilisation](https://youtube.com/playlist?list=PLREQ8S3NPaQvNTsYrqph8T4hn7KAHb1si&si=lzOXKc51w1vz_c25)
+- [Efficient Machine Learning](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
